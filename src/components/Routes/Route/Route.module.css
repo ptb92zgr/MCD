@@ -1,0 +1,16 @@
+.route {
+  border-bottom: 1px solid #cdcdcd;
+  margin-bottom: 20px;
+}
+
+.btn {
+  margin-bottom: 20px;
+}
+
+.rockDescription {
+  font-weight: bold;
+}
+
+.routeDescription {
+  font-weight: bold;
+}

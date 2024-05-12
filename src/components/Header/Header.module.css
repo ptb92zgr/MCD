@@ -1,0 +1,10 @@
+.header {
+  height: 200px;
+  background: url(../../assests/images/header-bg.jpeg);
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 60px 20px;
+}
